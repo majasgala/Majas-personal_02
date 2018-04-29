@@ -1,0 +1,164 @@
+
+
+hr{
+	border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);	}
+
+/*---------------------------- 主標 TOP -------------------------------*/
+
+.Topic_Title{
+	width:800px;
+	height:auto;
+	margin:34% 0 0 15%;
+	position:;
+	z-index:101;
+	float:left;
+	}
+
+h2{
+	font-size:2em;
+	font-family:Microsoft JhengHei;
+	font-weight:100;
+	letter-spacing: 5px;
+ 	text-align: right;
+	color:#FFF;
+	
+	text-shadow:2px 2px 5px rgba(0,0,0,0.5);
+	
+	}
+.Topic_Title p{
+	width:360px;
+	height: 3px;
+    background: #fbed9d;
+    float: right;
+    margin: 0.5% 0 0 0;
+		}
+b{     
+	color: #5475c5;
+	font-weight: bold;
+	}
+
+/*---------------------------- 個人資訊 -------------------------------*/
+
+
+.content{
+	width:100%;
+	height:auto;
+	padding:1% 2% 0 0 ;
+	background: rgba(255,255,255,0.8);
+	}
+
+.content_Box{
+	width:980px;
+	height:100%;
+	margin:5% auto 0 auto;
+	z-index:105;
+	}
+.photo_jasma{
+	width:210px;
+	height:420px;
+	background: url(../../images/decoration/jasma.png)  no-repeat;
+	background-size:contain;
+	float:left;
+	margin: 3% 0 0 -11%;
+	}
+.photo{
+	width:400px;
+	height:400px;
+	background:url(../img/decoration/photo.png) no-repeat;
+    margin:5% 0 0 -17%;
+	float:left; 
+    background-size: contain;
+	}
+h3{ 
+	font-size:2em;
+	font-family:Microsoft JhengHei;
+	font-weight:100;
+	letter-spacing: 5px;
+    margin: 0 0 0 5%;
+    text-shadow: 1px 1px 1px rgba(54, 56, 32, 0.5);	}
+
+.title{
+	width:300px;
+	height:auto;
+	margin:0 0 0 0;
+	}	
+	
+.lineTitle{
+	width: 145px;
+    height: 2px;
+    background: #ffdc3e;
+    float: left;
+    margin:2% 0 0 0;
+		}
+.color_ballTitle{
+	float:left;
+	margin:1% 0 0 0;
+	}
+	
+.color_ball{
+    position: absolute;
+	margin:1.5% 0 0 0;
+	}	
+.Text{
+	width: 399px;
+    float: left;
+    margin: 9% 0 0 0;
+}	
+.TextPlineTextP{
+    width: 100%;
+    margin:6.3% 0 0 11.5%;
+		}
+.TextP{
+	font-size:1.3em;
+	font-family:Microsoft JhengHei;
+	letter-spacing: 5px;
+	color: #5a5a5a;
+    margin:1.5% 0 0 0%;	
+	}	
+.lineTextP{
+    height: 1px;
+    background:#5a5a5a;
+    /* float: left; */
+    margin: 0 0 0 0;
+	}	
+	
+/*---------------------------- 個人資訊 -------------------------------*/
+
+
+
+/*---------------------------- 專長 -------------------------------*/
+
+.specialty{
+	width:80%;
+	height:auto;
+	padding:3% 4%;
+	margin:3% auto 3% auto;
+	background: rgba(152,207,235,0.5);
+	/*border:#98cfeb;
+    border-width: 0.1em;
+    border-style: solid;*/
+		
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	}
+#specialtyP{
+	font-size:1em;
+	font-family:Microsoft JhengHei;
+	letter-spacing: 1px;
+	line-height:50px;
+	color: #5a5a5a;
+    margin:2% 0 2% 0%;	
+	}
+
+
+
+/*---------------------------- 專長 -------------------------------*/
+
+
+
+
+
