@@ -1,1 +1,0 @@
-# Majas-personal_02
