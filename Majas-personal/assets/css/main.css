@@ -3228,7 +3228,7 @@
 			@media screen and (max-width: 1680px) {
 
 				.wrapper > .inner {
-					padding: 4em 4em 2em 4em ;
+					padding: 3em 2em 2em 2em ;
 				}
 
 			}
@@ -3898,7 +3898,7 @@
 			@media screen and (max-width: 980px) {
 
 				#intro p br {
-					display: none;
+					/*display: none;*/
 				}
 
 			}
